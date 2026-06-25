@@ -24,8 +24,8 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h1 style="font-size: 4rem; font-family: Times New Roman">{{ site.blog_name }}</h1>
+    <h2 style="font-size: 2.5rem; font-family: Times New Roman">{{ site.blog_description }}</h2>
   </div>
   {% endif %}
 
