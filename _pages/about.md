@@ -3,66 +3,72 @@ layout: page
 permalink: /
 ---
 
-<!-- 横幅图片 -->
 <div style="width: 100%; margin: 0 0 1.5rem 0; margin-top: -50px; padding: 0; line-height: 0;">
 	<img src="/assets/img/banner.jpg" style="width: 100%; height: auto; display: block; border-radius: 0;">
 </div>
 
 
-<!-- 个人简介 -->
-<div style="align-items: gap: 1.5rem; margin-bottom: 1.5rem; font-family: Times New Roman;">
-	<div>
-		<h2 style="margin: 0 0 0.25rem 0; font-size: 2.5rem; font-weight: 600;">What Is Framework Material?</h2>
-		<div style="margin-top: 0.5rem; font-size: 1rem; color: #555;">
-Interested in:
-		</div>
-	</div>
-	<br>
 
+<div style="margin-top: -10px;">
 	<div>
-		<h2 style="margin: 0 0 0.25rem 0; font-size: 2.5rem; font-weight: 600;">Represantative Researchers</h2>
-		<div style="margin-top: 0.5rem; font-size: 1rem; color: #555;">
-Interested in:
-		</div>
+		<h1>Welcome to <b><em style=" color: rgb(190,0,47) !important;">Crease in Frame</em></b></h1>
+		<h3><em style=" color: rgb(203,58,86) !important;">a website focuses on <b style=" color: rgb(203,58,86) !important;">reticular chemistry</b></em></h3>
+		<h3><em style=" color: rgb(203,58,86) !important;">involves topology, quantum chemistry, catalysis, biomedicine etc.</em></h3>
+		<br>
 	</div>
-	<br>
-
-	<div>
-		<h2 style="margin: 0 0 0.25rem 0; font-size: 2.5rem; font-weight: 600;">Memorable Works</h2>
-		<div style="margin-top: 0.5rem; font-size: 1rem; color: #555;">
-Interested in:
-		</div>
-	</div>
-	<br>
-
 </div>
 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
-
-<br>
-
-
-<!-- 头像 + 姓名（替代原来的 profile 和 title） -->
-<div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1.5rem;">
-	<img src="/assets/img/prof_pic.jpg" style="width: 327px; height: auto; border-radius: 0; flex-shrink: 0;">
-	<div>
-		<h1 style="margin: 0 0 0.25rem 0; font-size: 2.5rem; font-weight: 600;">Chen Yiru</h1>
-		<p style="margin: 0; color: #828282; font-size: 1.2rem;">
-			<a href="#">Framework Materials  </a> MOFs, COFs, MOPs etc.
+<div>
+	<b><h2 style="background-color: rgba(239,122,130,0.4); width: 29%;">Reticular Chemistry</h2></b>
+	<hr>
+	<div style="font-size: 1.2rem;">
+		<p>
+In recent years, framework materials are increasingly popular. As we all know, <b>Dr. Omar M. Yaghi</b> won <b>2025 Nobei Prize in Chemistry</b> for his foundational work in the field of reticular chemistry, indicating the vast and deepgoing potential of this very field.
 		</p>
-		<div style="margin-top: 0.5rem; font-size: 0.95rem; color: #555;">
-			<p style="font-size: 1.1rem;"><b>Interested in:</b></p>
-			<p><b>· </b>topology-guided design of dynamic stimuli-responsive framework materials</p>
-			<p><b>· </b>responsive devices development at the nanoscale</p>
-			<p><b>· </b>assisted with computational chemistry; wavelet analysis of the wave function</p>
-			<p>Email: 13606751719@163.com</p>
-			<p><b>Welcome to exchange ideas!</b></p>
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+	<img src="/assets/img/yaghi.jpg" style="width: 327px; height: auto; border-radius: 0; flex-shrink: 0;">
+</div>
+<div style="text-align: center !important; margin-top: 5px;">
+	<p><em style="font-size: 1rem; font-family: Times New Roman; color: rgb(98,42,29); align-items: center; justify-content: center;">Dr. Omar M. Yaghi</em></p>
+</div>
+<div>
+		<p>
+But why? I mean, there are over 1,000 research groups studying reticular chemistry today, but why so many scientists devoted themselves to this field?
+		</p>
+		<p>
+Let's start with this question: what is reticular chemistry?
+		</p>
+</div>
+
+
+<div>
+	<div>
+		<h2 style="background-color: rgba(239,122,130,0.4); width: 43%;">What is Framework Material?</h2>
+		<hr>
+		<div style="font-size: 1.2rem;">
+			<p>
+Let's start with this question: what is reticular chemistry?
+			</p>
+		</div>
+	</div>
+
+	<br>
+
+</div>
+
+<div>
+	<div>
+		<h2 style="background-color: rgba(239,122,130,0.4); width: 24.5%;">Focus of the Site</h2>
+		<hr>
+		<div style="font-size: 1.2rem;">
+			<p>
+Let's start with this question: what is reticular chemistry?
+			</p>
 		</div>
 	</div>
 </div>
+
+<br><br><br>

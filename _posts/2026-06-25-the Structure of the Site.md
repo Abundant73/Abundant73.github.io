@@ -4,13 +4,13 @@ title: the Structure of the Site
 date: 2026-06-25
 description: the content of the site and how you can get in
 tags: thoughts
-categories: blogs
+categories: blog
 related_posts: false
 toc:
   beginning: true
 ---
 
-<div style="font-size: 1.2rem; font-family: Times New Roman;">
+<div style="font-size: 1.2rem;">
 
 	<p>
 Welcome to <em><b>Crease in Frame</b></em>, and here are some explanation about the website structure.
@@ -40,7 +40,7 @@ The website will focus on the topic <em><b>Creases, Connections, and Sensing</b>
 </div>
 
 
-<div style="font-size: 1rem; font-family: Times New Roman;"><em>
+<div style="font-size: 1rem;"><em>
 
 <br>※ The content involved in the site are all collected or created by me, so it is inevitably tinged with subjective bias; please don't mind.
 
@@ -53,7 +53,7 @@ The website will focus on the topic <em><b>Creases, Connections, and Sensing</b>
 
 
 
-<div style="font-size: 1.2rem; font-family: Times New Roman;">
+<div style="font-size: 1.2rem;">
 
 	<h2><b>
 Navigation Column
@@ -82,7 +82,7 @@ There are several divisions you can reach directly in the navigation column, nam
 
 
 
-<div style="font-size: 1.2rem; font-family: Times New Roman;">
+<div style="font-size: 1.2rem;">
 
 	<h2><b>
 Blogs
@@ -139,7 +139,7 @@ Tags
 
 
 
-<div style="font-size: 1.2rem; font-family: Times New Roman;">
+<div style="font-size: 1.2rem;">
 	<p>
 In the Blog session, you will see a poem line, <em>"Spring is the Citizen of the World"</em> witten by a Chinese poet, Bei Dao. It is adapted from my favorate poem, <em>Really</em>. The original version is:
 	</p>

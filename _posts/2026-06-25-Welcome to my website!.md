@@ -4,11 +4,11 @@ title: Welcome to my website!
 date: 2026-06-25
 description: Creases, Connections, and Sensing
 tags: thoughts
-categories: blogs
+categories: blog
 related_posts: false
 ---
 
-<div style="font-size: 1.2rem; font-family: Times New Roman;">
+<div style="font-size: 1.2rem;">
 
 	<p>
 Hi, there. Welcome to my website!
@@ -33,7 +33,7 @@ As you have seen at the home page, this website will focus on the topic <em><b>C
 </div>
 
 
-<div style="font-size: 1.3rem; font-family: Times New Roman;">
+<div style="font-size: 1.3rem;">
 
 	<p><b><em>
 Just as a crease alters the morphology and structural locking of a sheet, I am fascinated by how subtle topological changes of frameworks can trigger macroscopic intelligence and truly benefit our life.
@@ -46,19 +46,18 @@ Just as a crease alters the morphology and structural locking of a sheet, I am f
 
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1.5rem;">
-	<img src="/assets/img/prof_pic.jpg" style="width: 327px; height: auto; border-radius: 0; flex-shrink: 0;">
+	<img src="/assets/img/prof_pic.jpg" style="width: 315px; height: auto; border-radius: 0; flex-shrink: 0;">
 	<div>
 		<h1 style="margin: 0 0 0.25rem 0; font-size: 2.5rem; font-weight: 600;">Chen Yiru</h1>
 		<p style="margin: 0; color: #828282; font-size: 1.2rem;">
-			<a href="#">Framework Materials  </a> MOFs, COFs, MOPs etc.
+			<a href="#">Framework Materials </a> MOFs, COFs, MOPs etc.
 		</p>
-		<div style="margin-top: 0.5rem; font-size: 0.95rem; color: #555;">
-			<p style="font-size: 1.1rem;"><b>Interested in:</b></p>
-			<p><b>· </b>topology-guided design of dynamic stimuli-responsive framework materials</p>
-			<p><b>· </b>responsive devices development at the nanoscale</p>
-			<p><b>· </b>assisted with computational chemistry; wavelet analysis of the wave function</p>
-			<p>Email: 13606751719@163.com</p>
-			<p><b>Welcome to exchange ideas!</b></p>
+		<div style="font-size: 1.05rem;">
+			<p style="font-size: 1.2rem; margin: 0.5rem;"><b>Interested in:</b></p>
+			<p style="margin: 0.5rem;"><b>· </b>topology-guided design of dynamic stimuli-responsive framework materials</p>
+			<p style="margin: 0.5rem;"><b>· </b>responsive devices development at the nanoscale</p>
+			<p style="margin: 0.5rem;"><b>· </b>assisted with computational chemistry; wavelet analysis of the wave function</p>
+			<p style="font-size: 1.2rem; margin: 1rem;">Email: 13606751719@163.com<br><b>Welcome to exchange ideas!</b></p>
 		</div>
 	</div>
 </div>

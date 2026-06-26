@@ -1,5 +1,58 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<div>
+	<h1>Chen Yiru</h1>
+	<h4 style="color: rgb(129,84,118)">Topology-Guided Design of Framework Materials for Sensor Devices in Catalysis and Biomedicine</h4>
+</div>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<div>
+	<hr>
+	<h2>Education</h2>
+	<p><em><b>B. S.</b></em> in <b>Chemistry</b>, Beijing University of Chemical Technology</p>
+</div>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<div>
+	<hr>
+	<h2>Research Interests</h2>
+	<li>Designing dynamic, stimuli-responsive frameworks via reticular chemistry and topology</li>
+	<li>Exploring their applications in sensing, especially in (photo)electrocatalysis and biomedicine</li>
+	<li>Integrating computational chemistry and wavefunction analysis to understand structure-property relationships</li>
+</div>
+
+<div>
+	<hr>
+	<h2>Hobbies</h2>
+	<li>origami (especially tessellation origami)</li>
+	<li>harmonica, guitar</li>
+	<li>reading, writing</li>
+	<li>movies, music</li>
+	<li>strolling, swimming</li>
+</div>
+
+<br>
+
+<div>
+	<hr>
+	<h1>About the Site</h1>
+	<h4 style="color: rgb(129,84,118)">Crease in Frame</h4>
+	<em><h5 style="color: rgb(129,84,118)">Creases, Connections, and Sensing</h5>
+	<h5 style="color: rgb(129,84,118)">Topology-guided, Intelligence, Dynamic</h5></em>
+</div>
+
+<div>
+	<hr>
+	<h2>Topic</h2>
+	<li>origami (especially tessellation origami)</li>
+</div>
+
+<div>
+	<hr>
+	<h2>Main Content</h2>
+	<li>origami (especially tessellation origami)</li>
+</div>
+
+<div>
+	<hr>
+	<h2>Purpose</h2>
+	<li>origami (especially tessellation origami)</li>
+</div>
+
+<br><br><br>

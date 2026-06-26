@@ -1,14 +1,14 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /blogs/
+title: blogs
 nav: true
 nav_order: 1
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 10
   sort_field: date
   sort_reverse: true
   trail:
@@ -25,7 +25,7 @@ pagination:
 
   <div class="header-bar">
     <h1 style="font-size: 4rem; font-family: Times New Roman">{{ site.blog_name }}</h1>
-    <h2 style="font-size: 2.5rem; font-family: Times New Roman">{{ site.blog_description }}</h2>
+    <h2 style="font-size: 2.rem; font-family: Times New Roman;">{{ site.blog_description }}</h2>
   </div>
   {% endif %}
 
