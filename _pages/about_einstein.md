@@ -1,6 +1,6 @@
 <div>
 	<h2><b>Chen Yiru</b></h2>
-	<h4 style="color: rgb(190,0,47)"><b>Topology-Guided Design of Tow-Dimensional Framework Materials for Sensor Devices in Catalysis and Biomedicine</b></h4>
+	<h4 style="color: rgb(190,0,47)"><b>Topology-Guided Design of Two-Dimensional Framework Materials for Sensor Devices in Catalysis and Biomedicine</b></h4>
 	<b>ORCID: </b><a href="https://orcid.org/0009-0003-1924-9148" target="_blank">0009-0003-1924-9148</a>
 	<br>
 	<b>ResearcherID: </b><a href="https://www.researcherid.com/rid/RFT-1404-2026" target="_blank">RFT-1404-2026</a>

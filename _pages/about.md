@@ -13,7 +13,7 @@ permalink: /
 	<div>
 		<h1>Welcome to <b><em style=" color: rgb(190,0,47) !important;">Crease in Frame</em></b></h1>
 		<h3><em style=" color: rgb(203,58,86) !important;">Hi, I am a researcher working on <b style=" color: rgb(203,58,86) !important;">structurally dynamic intelligent 2D MOFs</b>, and this is my website.</em></h3>
-		<h3><em style=" color: rgb(203,58,86) !important;">Please click <b><a href="https://crease-in-frame.com/profile/" target="_blank">here</a></b> to gain a brief introduction.</em></h3>
+		<h3><em style=" color: rgb(203,58,86) !important;">Please click <b><a href="https://crease-in-frame.com/blog/2026/Welcome-to-my-website!/" target="_blank">here</a></b> to gain a brief introduction.</em></h3>
 		<br>
 	</div>
 </div>
