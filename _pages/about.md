@@ -12,8 +12,8 @@ permalink: /
 <div style="margin-top: -10px;">
 	<div>
 		<h1>Welcome to <b><em style=" color: rgb(190,0,47) !important;">Crease in Frame</em></b></h1>
-		<h3><em style=" color: rgb(203,58,86) !important;">a website focuses on <b style=" color: rgb(203,58,86) !important;">reticular chemistry</b></em></h3>
-		<h3><em style=" color: rgb(203,58,86) !important;">involves topology, quantum chemistry, catalysis, biomedicine etc.</em></h3>
+		<h3><em style=" color: rgb(203,58,86) !important;">Hi, I am a researcher working on <b style=" color: rgb(203,58,86) !important;">structurally dynamic intelligent 2D MOFs</b>, and this is my website.</em></h3>
+		<h3><em style=" color: rgb(203,58,86) !important;">Please click <b><a href="https://crease-in-frame.com/profile/" target="_blank">here</a></b> to gain a brief introduction.</em></h3>
 		<br>
 	</div>
 </div>
@@ -21,54 +21,11 @@ permalink: /
 
 
 <div>
-	<b><h2 style="background-color: rgba(239,122,130,0.4); width: 29%;">Reticular Chemistry</h2></b>
-	<hr>
-	<div style="font-size: 1.2rem;">
-		<p>
-In recent years, framework materials are increasingly popular. As we all know, <b>Dr. Omar M. Yaghi</b> won <b>2025 Nobei Prize in Chemistry</b> for his foundational work in the field of reticular chemistry, indicating the vast and deepgoing potential of this very field.
-		</p>
-</div>
-<div style="display: flex; justify-content: center; align-items: center;">
-	<img src="/assets/img/yaghi.jpg" style="width: 327px; height: auto; border-radius: 0; flex-shrink: 0;">
-</div>
-<div style="text-align: center !important; margin-top: 5px;">
-	<p><em style="font-size: 1rem; font-family: Times New Roman; color: rgb(98,42,29); align-items: center; justify-content: center;">Dr. Omar M. Yaghi</em></p>
-</div>
-<div>
-		<p>
-But why? I mean, there are over 1,000 research groups studying reticular chemistry today, but why so many scientists devoted themselves to this field?
-		</p>
-		<p>
-Let's start with this question: what is reticular chemistry?
-		</p>
+	<p>Imagine you have a pile of LEGO blocks. You can snap the blocks together and build anything you want.</p>
+	<p>The material I am studying, metal-organic frameworks (MOFs), is a molecular version of LEGO. Through chemical methods, metal ions and organic molecules can be linked together by chemical bonds, much like LEGO blocks, forming a highly ordered and highly designable structure.</p>
+	<p>I plan to investigate an even more interesting question: What if we could make this material fold and unfold like origami? What if we could design a material that changes into a desired shape in response to external stimuli, just as a sheet of paper can be folded into different shapes?</p>
 </div>
 
 
-<div>
-	<div>
-		<h2 style="background-color: rgba(239,122,130,0.4); width: 43%;">What is Framework Material?</h2>
-		<hr>
-		<div style="font-size: 1.2rem;">
-			<p>
-Let's start with this question: what is reticular chemistry?
-			</p>
-		</div>
-	</div>
-
-	<br>
-
-</div>
-
-<div>
-	<div>
-		<h2 style="background-color: rgba(239,122,130,0.4); width: 24.5%;">Focus of the Site</h2>
-		<hr>
-		<div style="font-size: 1.2rem;">
-			<p>
-Let's start with this question: what is reticular chemistry?
-			</p>
-		</div>
-	</div>
-</div>
 
 <br><br><br>

@@ -57,7 +57,7 @@ Just as a crease alters the morphology and structural locking of a sheet, I am f
 			<p style="margin: 0.5rem;"><b>· </b>topology-guided design of dynamic stimuli-responsive framework materials</p>
 			<p style="margin: 0.5rem;"><b>· </b>responsive devices development at the nanoscale</p>
 			<p style="margin: 0.5rem;"><b>· </b>assisted with computational chemistry; wavelet analysis of the wave function</p>
-			<p style="font-size: 1.2rem; margin: 1rem;">Email: 13606751719@163.com<br><b>Welcome to exchange ideas!</b></p>
+			<p style="font-size: 1.2rem; margin: 1rem;">Email: crease-in-frame@yiruchen.org<br><b>Welcome to exchange ideas!</b></p>
 		</div>
 	</div>
 </div>

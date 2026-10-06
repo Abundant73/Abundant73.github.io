@@ -181,6 +181,14 @@ collections:
     output: true
   projects:
     output: true
+  photovoltaic:      # ← 新增
+    output: true
+  reading:      # ← 新增
+    output: true
+  topology:      # ← 新增
+    output: true
+  comp_chem:      # ← 新增
+    output: true
   teachings:
     output: true
 

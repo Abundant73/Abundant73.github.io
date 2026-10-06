@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: 3
-display_categories: [publication, pre-print, works]
+display_categories: [publication, project, pre-print, work]
 horizontal: false
 ---
 
