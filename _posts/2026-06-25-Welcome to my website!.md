@@ -50,7 +50,7 @@ Just as a crease alters the morphology and structural locking of a sheet, I am f
 	<div>
 		<h1 style="margin: 0 0 0.25rem 0; font-size: 2.5rem; font-weight: 600;">Chen Yiru</h1>
 		<p style="margin: 0; color: #828282; font-size: 1.2rem;">
-			<a href="#">Framework Materials </a> MOFs, COFs, MOPs etc.
+			<b style="color: rgb(190,0,47)"> Framework Materials </b> MOFs, COFs, MOPs etc.
 		</p>
 		<div style="font-size: 1.05rem;">
 			<p style="font-size: 1.2rem; margin: 0.5rem;"><b>Interested in:</b></p>
